@@ -58,5 +58,6 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![output]()
+![output](https://github.com/Shaik-sameer-AIML/Web_server/blob/main/web.JPG?raw=true)
 ## RESULT:
+The program is executed
